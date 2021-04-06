@@ -17,3 +17,5 @@ function addStudent(name) {
 
  return NumberOfStudents 
    }
+
+   var Students = [] ;
